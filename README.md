@@ -1,4 +1,4 @@
-# Tornetron
+# torneTron
 
 torneTron es un sistema de gestión de torneos basado en web (PHP+MYSQL). Permite ligas, eliminatorias y más, individual o en equipos. Los equipos pueden darse de alta ellos mismos y seguir el torneo desde la web. Orientado originalmente a partys LAN.
 
