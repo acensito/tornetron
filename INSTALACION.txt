@@ -1,6 +1,0 @@
-Instrucciones: 
--Descomprimir y colocar el directorio "tornetron" en el servidor web
--Introducir en la base de datos el archivo "estructura.sql". 
--Editar el archivo "config.php" con los datos para conectarse a la base de datos
--Dar permisos de escritura al php sobre el archivo "admin/config_admin.php"
--Entrar al programa desde la web, entrar al menu de administracion y cambiar la clave de adeministracion
