@@ -4,9 +4,10 @@ torneTron es un sistema de gestión de torneos basado en web (PHP+MYSQL). Permit
 
 ## Que hace 🖇️
 
+### Elegir tipo de competición
 <p align="center"><img src="https://sourceforge.net/p/tornetron/screenshot/80692.jpg" /></p>
 
-### Pre-requisitos 📋
+## Requisitos 📋
 - Apache 
 - MySQL
 - PHP
