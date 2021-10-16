@@ -10,12 +10,14 @@ torneTron es un sistema de gestión de torneos basado en web (PHP+MYSQL). Permit
 #### Cuadro de eliminatorias
 <p align="center"><img src="https://sourceforge.net/p/tornetron/screenshot/80686.jpg" /></p>
 
+### Liguillas
+<p align="center"><img src="https://sourceforge.net/p/tornetron/screenshot/80688.jpg" /></p>
+
 ### Actualizando resultados
 <p align="center"><img src="https://sourceforge.net/p/tornetron/screenshot/80690.jpg" /></p>
 
 ### Torneos activos
 <p align="center"><img src="https://sourceforge.net/p/tornetron/screenshot/80694.jpg" /></p>
-
 
 ## Requisitos 📋
 - Apache 
@@ -32,19 +34,17 @@ torneTron es un sistema de gestión de torneos basado en web (PHP+MYSQL). Permit
 
 ## Construido con 🛠️
 
-
-
-
-
-
+- PHP MVC
 
 ## Wiki 📖
 
-Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/tu/proyecto/wiki)
+Repositorio original del proyecto en [SourceForge](https://sourceforge.net/projects/tornetron/)
 
 ## Versionado 📌
-
-
+* 2006-07-17:
+- El modo de brackets winners/losers funciona ahora correctamente
+- Añadido un modo de edicion de partidos
+- Corregidos varios bugs
 
 ## Autores ✒️
 
@@ -53,12 +53,5 @@ Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](ht
 ## Licencia 📄
 
 Este proyecto está bajo la Licencia GNU General Public License v2.0 - mira el archivo [LICENSE](LICENSE) para detalles
-
-## Expresiones de Gratitud 🎁
-
-* Comenta a otros sobre este proyecto 📢
-* Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
-* Da las gracias públicamente 🤓.
-* etc.
 
 
