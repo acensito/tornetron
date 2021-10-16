@@ -1,0 +1,1 @@
+<?php $CLAVE_ADMINISTRADOR = ""; ?>

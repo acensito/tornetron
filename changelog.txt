@@ -1,0 +1,4 @@
+2006-07-17
+-El modo de brackets winners/losers funciona ahora correctamente
+-Añadido un modo de edicion de partidos
+-Corregidos varios bugs

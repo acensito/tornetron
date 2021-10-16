@@ -1,0 +1,130 @@
+body{
+	background-color:	white;
+	color:			black;	
+    	font-family:		georgia, comic, cursive;
+	font-size: 		11px; 	
+	padding:		0px;
+	margin:			0px;
+}
+
+a {		
+	background: 		none; 
+	color: 			#FF7E00; 
+	text-decoration: 	none; 	
+}
+
+a:hover { 
+	color: 			#fff; 
+	text-decoration: 	none; 
+	background: 		#FF7E00; 
+}
+
+h4 { 
+	font:			12px; 
+	color: 			#111;  	
+	 	
+ 	font-size: 		12px;  	
+ 	margin:			5px;
+}
+
+h3 { 
+	font:			bold 14px; 
+	text-decoration:	underline;
+	color: 			#777; 	
+ 	font-size: 		14px;  	
+}
+
+h1 { 
+	color: 			#FF7E00;
+}
+
+div#divTop{	
+	text-align:		left;
+	border-bottom:		1px solid #ccc;
+	padding:		5px;
+	margin-bottom:		10px;
+}
+
+div#divTitulo{	
+	font-size:		18px;
+	font-weight:		bold;
+}
+
+div#divTituloDerecha{	
+	float:			right;	
+}
+
+p#pBottom{	
+	margin:			0px;
+	margin-top:		10px;	
+	border-top:		1px solid #ccc;
+	padding:		10px;
+	background-color:	#eee;
+}
+
+input{
+	border:			1px solid #FF7E00; 
+	font-family:		georgia, comic, cursive;
+	background-color:	#FFf;
+	padding:		3px;
+	font-size:		12px;	
+}
+
+table.listado{
+	border:			1px solid #FF7E00; 
+	padding:		0px;
+	margin:0px;
+}
+
+table.listado td{
+	padding: 5px;
+	border-bottom:		1px solid #ff7e00;
+}
+
+table.listado tr:hover{
+	background-color:	#eee; 
+}
+
+table.listado tr.trTop, table.listado tr.trTop:hover{
+	color:			#fff;
+	background-color:	#FF7E00; 
+	text-align:		center;
+}
+
+td.td1{
+	color:			#fff;
+	background-color:	#FFaa66; 	
+}
+
+div.divElemento {
+	border:			1px solid #FFaa66; 	
+	width:			60%;
+	padding:		5px;	
+}
+
+div.divElemento a{
+	display:		block;
+	margin:			5px;
+}
+
+div.divElemento2{	
+	border:			1px solid #FFaa66; 	
+	width:			40%;
+	padding:		15px 0px;	
+}
+
+table.tableActualizar{
+	border:			1px solid #FF7E00; 
+	padding:		5px;
+	margin:			5px;
+}
+
+tr.trPartido{
+	text-align:		center;
+}
+
+div.divLiguilla{
+	border:			1px dotted #FF7E00; 
+	margin:			10px;
+	padding:		20px;
+}
