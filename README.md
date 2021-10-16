@@ -2,6 +2,10 @@
 
 torneTron es un sistema de gestión de torneos basado en web (PHP+MYSQL). Permite ligas, eliminatorias y más, individual o en equipos. Los equipos pueden darse de alta ellos mismos y seguir el torneo desde la web. Orientado originalmente a partys LAN.
 
+## Que hace 🖇️
+
+<p align="center"><img src="https://sourceforge.net/p/tornetron/screenshot/80692.jpg" /></p>
+
 ### Pre-requisitos 📋
 - Apache 
 - MySQL
@@ -15,18 +19,11 @@ torneTron es un sistema de gestión de torneos basado en web (PHP+MYSQL). Permit
 - Dar permisos de escritura al php sobre el archivo "admin/config_admin.php"
 - Entrar al programa desde la web, entrar al menu de administracion y cambiar la clave de administracion
 
-## Ejecutando las pruebas ⚙️
-
-
-## Despliegue 📦
-
-_Agrega notas adicionales sobre como hacer deploy_
-
 ## Construido con 🛠️
 
 
 
-## Contribuyendo 🖇️
+
 
 
 
@@ -40,11 +37,11 @@ Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](ht
 
 ## Autores ✒️
 
-* **Shaorang** - *Trabajo Inicial* 
+* **Shaorang** - *Trabajo y desarrollo Inicial* 
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE](LICENSE) para detalles
+Este proyecto está bajo la Licencia GNU General Public License v2.0 - mira el archivo [LICENSE](LICENSE) para detalles
 
 ## Expresiones de Gratitud 🎁
 
