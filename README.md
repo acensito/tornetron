@@ -48,7 +48,7 @@ Repositorio original del proyecto en [SourceForge](https://sourceforge.net/proje
 
 ## Autores ✒️
 
-* **Shaorang** - *Trabajo y desarrollo Inicial* 
+* **Shaorang** - *Trabajo y desarrollo* 
 
 ## Licencia 📄
 
